@@ -6,7 +6,7 @@ jobs:
 
   lh-chrome-tests:
     runs-on: ubuntu-latest
-    container: cypress/browsers:node10.19.0-chrome88-ff89
+    container: cypress/browsers:node14.17.0-chrome88-ff89
     strategy:
       fail-fast: false
     steps:
