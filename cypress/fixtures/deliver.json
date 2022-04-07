@@ -1,0 +1,56 @@
+{
+    "signup": {
+        "name": "Lucas Hecht",
+        "cpf": "00000014111",
+        "email": "lucashecht@email.com",
+        "whatsapp": "55991343231",
+        "address": {
+            "postalcode": "97070400",
+            "street": "Rua General Agostini",
+            "number": "41",
+            "details": "ap 401",
+            "district": "Uglione",
+            "city_state": "Santa Maria/RS"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Lucas Hecht",
+        "cpf": "000000141AA",
+        "email": "lucashecht@email.com",
+        "whatsapp": "55991343231",
+        "address": {
+            "postalcode": "97070400",
+            "street": "Rua General Agostini",
+            "number": "41",
+            "details": "ap 401",
+            "district": "Uglione",
+            "city_state": "Santa Maria/RS"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    },
+
+    "email_inv": {
+        "name": "Lucas Hecht",
+        "cpf": "00000014111",
+        "email": "lucashecht.com.br",
+        "whatsapp": "55991343231",
+        "address": {
+            "postalcode": "97070400",
+            "street": "Rua General Agostini",
+            "number": "41",
+            "details": "ap 401",
+            "district": "Uglione",
+            "city_state": "Santa Maria/RS"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg"
+    }
+
+}
